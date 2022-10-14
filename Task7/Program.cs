@@ -2,8 +2,6 @@
 bool flagContinue = true;
 int i = 1;
 
-Console.WriteLine(number);
-
 while (i <= 3 && flagContinue)
 {
     Console.Write("Введите число в интервале [" + min + "; " + max + "]: ");
